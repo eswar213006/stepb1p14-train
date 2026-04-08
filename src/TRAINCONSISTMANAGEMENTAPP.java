@@ -18,5 +18,6 @@ public class TRAINCONSISTMANAGEMENTAPP{
         // Step 4: Display final formation
         System.out.println("Final Train Formation:");
         System.out.println(train);
+
     }
 }
