@@ -19,3 +19,4 @@ public class TRAINCONSISTMANAGEMENTAPP {
         System.out.println("Final Train Formation:");
         System.out.println(train);
     }
+}
